@@ -1,6 +1,6 @@
 <?php
 
-
+echo "smart developer";
 echo "jai developer";
 
 ?>
